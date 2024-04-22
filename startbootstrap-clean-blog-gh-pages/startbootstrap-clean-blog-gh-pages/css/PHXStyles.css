@@ -1,0 +1,50 @@
+h1{
+    color: rgb(229, 95, 32);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-size: 60px;;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+
+h2{
+    font-size: 40px;
+    text-align:center;
+    text-decoration: underline;
+    color: rgb(229, 95, 32);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.players{
+    color: rgb(229, 95, 32);
+    font-size: 30px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body{
+    background-color: rgb(29, 17, 96);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 5px solid orange;
+    margin: 40px;
+    padding: 50px;
+    text-align: center;
+}
+
+.video{
+    text-align: center;
+}
+
+ul{
+    list-style-position: inside;
+}
+
+ol{
+    list-style-position: inside;
+}
